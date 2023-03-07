@@ -1,0 +1,36 @@
+body {
+background-color:  hsl(212, 45%, 89%)
+
+}
+
+h1 {
+font-size: 18px;
+font-style: bold;
+}
+
+.QR {
+margin: auto;
+padding: 20px 20px 20px 20px;
+display: block;
+width: 85%;
+height: 56.6%;
+border-radius: 25px;
+}
+
+.QR-code-container {
+width: 240px;
+height: 360px;
+text-align: center;
+margin: 100px auto 200px auto;
+border-radius: 25px;
+background-color: white;
+}
+
+.text {
+background-color: white;
+margin: 0 auto 120px auto;
+padding: 0 20px 20px 20px;
+text-align: center;
+border-radius: 25px;
+
+}
